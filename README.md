@@ -5,6 +5,7 @@ manjaro 8.10 awesome wm respin tiene todo instalado y configurado con programa m
 por lo tanto es probable que solo algunos programas funcionen. 
 
 <img src="https://raw.githubusercontent.com/gonku/awesome-wm-pabucolor/master/screenshot/Men%C3%BA_003.png" width="676" height="424" alt="Screenshot">
+<img src="https://raw.githubusercontent.com/gonku/awesome-wm-pabucolor/master/screenshot/Men%C3%BA_004.png" width="476" height="224" alt="Screenshot">
 
 ###Version: v2.0
 
