@@ -1,7 +1,7 @@
 ##Pabu COlor:
 
 La versión trabaja con impresionante WM 3.5. en manjaro 8.10 awesome wm respin
-manjaro 8.10 awesome wm respin tiene todo instalado y configurado con programa minimalista
+tiene todo instalado y configurado con programa minimalista
 por lo tanto es probable que solo algunos programas funcionen. 
 
 <img src="https://raw.githubusercontent.com/gonku/awesome-wm-pabucolor/master/screenshot/Men%C3%BA_003.png" width="676" height="424" alt="Screenshot">
