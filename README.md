@@ -2,7 +2,7 @@
 
 La versión trabaja con impresionante WM 3.5. 
 
-<img src="https://raw.githubusercontent.com/gonku/awesome-wm-pabucolor/master/screenshot/Men%C3%BA_003.png" width="576" height="324" alt="Screenshot">
+<img src="https://raw.githubusercontent.com/gonku/awesome-wm-pabucolor/master/screenshot/Men%C3%BA_003.png" width="676" height="424" alt="Screenshot">
 
 ###Version: v2.0
 
