@@ -32,7 +32,7 @@ Programas a tener en consideración
     git clone https://github.com/gonku/awesome-wm-pabucolor.git
 
 ####Use:
-la secion de codigo puede ser remplazada por script a wallpaper2.sh
+la sección de código puede ser remplazada por script a wallpaper2.sh
 
     -- wallpaper for a screen
     wp_index = 1
@@ -49,10 +49,10 @@ la secion de codigo puede ser remplazada por script a wallpaper2.sh
                   end)
      wp_timer:start()
      
-En el script wallpaper2.sh debe ser modificada el directorio de imagen a combeniencia ya que esta definido en
+En el script wallpaper2.sh debe ser modificada el directorio de imagen a conveniencia ya que esta definido en
 wallpaper2.sh
 
-Los directorio lain y gears estan un poco modificados, ya que su directorios estan apra configuracion idioma ingles, lo cual fue nesesario cambiar a directorio con nombre español,para el caso de la notificacion de mpd
+Los directorio lain y gears están un poco modificados, ya que su directorios están para configuración idioma ingles, lo cual fue necesario cambiar a directorio con nombre español,para el caso de la notificación de mpd
 
 
 Author:
@@ -60,7 +60,5 @@ Author:
 
 AyumiMAy
 
-Contributors
--------
 
 
